@@ -4,7 +4,7 @@ import Home from "./Home";
 const Navbar = () => {
   return (
     <>
-      <nav className="container min-h-screen bg-[url('../public/Image.png')] bg-center bg-cover">
+      <nav className="container min-h-screen bg-[url('../public/Image.png')] bg-center bg-cover bg-fixed">
         <div className="w-full h-14 md:flex md:justify-between px-20 items-center">
           <div className="">
             <img
